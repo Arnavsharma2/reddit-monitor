@@ -4,6 +4,7 @@
         "client_secret": "",
         "user_agent": ""
     },
+    
     "email": {
         "smtp_server": "smtp.gmail.com",
         "smtp_port": 465,
@@ -11,10 +12,12 @@
         "sender_password": "",
         "notification_email": "@gmail.com"
     },
+    
     "monitoring": {
         "subreddits": ["test", "python"],
         "keywords": ["hello", "test", "bot"],
         "check_interval_seconds": 30,
         "case_sensitive": false
+        
     }
 }
