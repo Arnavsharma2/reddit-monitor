@@ -1,0 +1,20 @@
+{
+    "reddit": {
+        "client_id": "-PBO_xGYe4DlYAkaZF3w0Q",
+        "client_secret": "7mZQdzmdZ6rXvqwbnAY99BFMLNU9Mw",
+        "user_agent": "RedditMonitor/1.0 by Arnav"
+    },
+    "email": {
+        "smtp_server": "smtp.gmail.com",
+        "smtp_port": 465,
+        "sender_email": "psuband2000@gmail.com",
+        "sender_password": "jdkh crgg eqyb tzlr",
+        "notification_email": "arnavgamin@gmail.com"
+    },
+    "monitoring": {
+        "subreddits": ["test", "python"],
+        "keywords": ["hello", "test", "bot"],
+        "check_interval_seconds": 30,
+        "case_sensitive": false
+    }
+}
