@@ -1,1 +1,1 @@
-Monitors subreddit's for self-proclaimed keywords and notifies you by email.
+Monitors subreddit's for certain keywords you designate, and notifies you by email.
